@@ -5,3 +5,5 @@ django_chatbot/__init__.py
 django_chatbot/__pycache__
 bot.json
 db.sqlite3
+chatbot/migrations/__init__.py
+chatbot/migrations/__pycache__
