@@ -1,0 +1,7 @@
+chatbot/__pycache__
+.dbdata
+chatbot/__init__.py
+django_chatbot/__init__.py
+django_chatbot/__pycache__
+bot.json
+db.sqlite3
